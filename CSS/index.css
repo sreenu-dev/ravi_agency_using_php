@@ -1,0 +1,11 @@
+@import "/node_modules/bootstrap/dist/css/bootstrap.min.css";
+
+.h1{
+    text-align: center;
+    background-color: palevioletred;
+    padding: 8px;
+}
+#head{
+    width: auto;
+    background-color: peru;
+}
