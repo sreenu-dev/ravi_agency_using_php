@@ -1,0 +1,22 @@
+{
+  "name": "ravi_agency",
+  "version": "1.0.0",
+  "description": "* The main thing that is the center of every thing is bills\r * First we need to do it using PHP JQuery Ajax and Bootstrap",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ummadi-sreeni/ravi_agency.git"
+  },
+  "author": "sreeni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ummadi-sreeni/ravi_agency/issues"
+  },
+  "homepage": "https://github.com/ummadi-sreeni/ravi_agency#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.3"
+  }
+}
