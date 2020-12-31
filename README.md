@@ -8,3 +8,10 @@
 
 ## Things to Remember
 * Use capital letter for Party Details
+
+## Ways we have to create the Web Application
+* PHP,JQuery,Bootstrap without using any Framework
+* Using Laravel Framework
+* Using Angular 10
+* Using ASP .NET
+* Directly creating a windows application
